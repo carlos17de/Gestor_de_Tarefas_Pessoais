@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821166285297",
+    "project_id": "projeto-final-9bd09",
+    "storage_bucket": "projeto-final-9bd09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821166285297:android:5f9e1825d594f042282450",
+        "android_client_info": {
+          "package_name": "pt.ipca.a31482.gestortarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSupPlk7GscehOH0fua2RnIw93YBPStB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
